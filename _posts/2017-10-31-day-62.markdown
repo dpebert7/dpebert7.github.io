@@ -15,7 +15,7 @@ We decided to hang the windows with string to get a feel for how they fit in the
 
 ![floor]({{ site.url }}/assets/house/floor.jpg){:class="img-responsive"}
 
-After a more than a week cutting and painting the plywood floor, it took barely a day's wrok to install them to the steel frame with self-tapping tek screws. We now have a great working surface moving forward.
+After a more than a week cutting and painting the plywood floor, it took barely a day's work to install them to the steel frame with self-tapping tek screws. We now have a great working surface moving forward.
 
 ![tarp]({{ site.url }}/assets/house/tarp.jpg){:class="img-responsive"}
 
