@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Day 1: First Cuts"
+title:  "Day 1: Start"
 date:   2017-08-31 12:00:00 -0000
 categories: tiny house
 ---
 
-On my very first day building the tiny house, I cut about 40 steel tags which will hold the loft and ceiling rafters in place. After months of dreaming, researching, learning and planning, I went home knowing that for the very first time, our tiny house was no longer entirely conceptual.
+After months of dreaming, researching, learning, and planning the tiny house build, August 31 marked the first day of construction when I cut several steel tags which will eventually hold the loft and ceiling rafters in place. Though it's really hard to predict how long the build will take, I hope to move into the tiny house 100 days from now. My wife's dream is that we'll get to spend Christmas in our new home. Regardless of the small steps I took on this first day, I went home this first day excited that our tiny house was no longer entirely conceptual.
+
+![firstday]({{ site.url }}/assets/house/firstday.JPG){:class="img-responsive"}

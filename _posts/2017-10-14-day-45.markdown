@@ -6,3 +6,8 @@ categories: tiny house
 ---
 
 Though I had hoped to have a great start on the project before my dad arrived to help for three months, progress was slow and we were only finished the steel structure a few days after his arrival. Since then, the build has sped up considerably, as I've had full time help planning, sourcing, and cutting. After a week of car trouble and rainy weather, we successfully installed the roof, marking our first major accomplishment.
+
+![rafters]({{ site.url }}/assets/house/rafters.JPG){:class="img-responsive"}
+
+
+![roof]({{ site.url }}/assets/house/roof.JPG){:class="img-responsive"}

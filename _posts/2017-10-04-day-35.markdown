@@ -6,3 +6,7 @@ categories: tiny house
 ---
 
 I have no welding experience. When I arrived at the build site in mid-July, I received one lesson, and after a bit of practice I never accomplished a weld better than *chicken shit*. For this and a lot of other reasons, I'm grateful for Jamie and Steve, who helped the build get off the trailer by welding 36 meters of steel beams to the frame.
+
+![weld]({{ site.url }}/assets/house/weld.JPG){:class="img-responsive"}
+
+![steel]({{ site.url }}/assets/house/steel.JPG){:class="img-responsive"}

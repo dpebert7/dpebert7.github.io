@@ -5,6 +5,8 @@ date:   2017-09-07 12:00:00 -0000
 categories: tiny house
 ---
 
-We thought that the trailer would arrive three weeks after delivery. It turned out to be more like 5, though part of that was due to some miscommunication with the trailer builder who was on holiday in Mozambique.
+We thought that the trailer would arrive three weeks after delivery. It turned out to be more like 5, though part of that was due to some miscommunication with the trailer builder who took an untimely holiday to Mozambique.
 
-The trailer is by far the largest expense of the build, accounting for nearly one third of our starting budget. At 8 meters long and 2.4 meters wide, it's also what makes our house *tiny*. Throughout the project, we'll keep the trailer road legal by building entirely on the trailer and up to a hight of 4.3 meters.
+The trailer is by far the largest expense of the build, accounting for nearly one third of our starting budget. At 8 meters long and 2.4 meters wide, it's also what makes our house *tiny*. Throughout the project, we'll keep the trailer road legal by building entirely on the trailer's 19.2 square meters (207 square feet) and up to a hight of 4.3 meters.
+
+![trailer]({{ site.url }}/assets/house/trailer.JPG){:class="img-responsive"}
