@@ -10,7 +10,6 @@ Additionally, the work has been occasionally slowed by rainy weather. However, n
 ![windows]({{ site.baseurl }}/assets/house/windows.jpg){:class="img-responsive"}
 
 
-
 We decided to hang the windows with string to get a feel for how they fit in the structure. It's easy to move the windows around now, but not so much once they're framed in!
 
 ![floor]({{ site.url }}/assets/house/floor.jpg){:class="img-responsive"}

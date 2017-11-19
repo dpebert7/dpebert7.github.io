@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 80: Cladding"
+published: true
+---
+
+![cladding]({{ site.baseurl }}/assets/house/cladding.jpg){:class="img-responsive"}
+
+For our house's exterior cladding, we elected to use a 19mm tongue & groove pine cladding. While my dad didn't use the nail gun much for the framing, he's become an expert at using it for the cladding. With just a little practice, he now positions the gun at the *exact* place and angle so that the tongue doesn't shatter from the force of the nail -- even when standing 5 pallets high on scaffolding.
+
+![scaffolding]({{ site.baseurl }}/assets/house/scaffolding.jpg){:class="img-responsive"}
+
+Though our front wall still requires paint, flashing, windows and a door, the house gained a clean, square aesthetic as soon as the final cladding boards were installed. Hopefully it will continue to look this good!

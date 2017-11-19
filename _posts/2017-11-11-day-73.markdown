@@ -1,7 +1,13 @@
 ---
 layout: post
 title:  "Day 73: Framing"
-published: false
+published: true
 ---
 
-Fishpaste!
+![framing]({{ site.baseurl }}/assets/house/framing.jpg){:class="img-responsive"}
+
+Upon insalling the flooring, my dad and I set to work framing the walls. Unlike most construction in South Africa which relies on masonry far too heavy for our trailer, we filled in our steel structure with wood framing, and we'll continue to use wood for our cladding (a.k.a. *siding*, if you're American).
+
+For the wood studs along the steel structure, we used self-tapping tek screws which rely on a lot of exertion and a little bit of luck. Everywhere else we used nails. Here more than any other part of the project up to this point, the different attitude my dad and I bring to our work was expressed most clearly. While I was eager to improve my skills with the nail gun and didn't mind occasionally (perhaps more than occasionally) fixing and redoing stray nails, my dad's insistence that our walls be straight and studs carefully planned led him to employ the old fashioned hammer. In the end my dad's method mostly won out, though I might have been able to mount a stronger defence for modern methods had I not been sick in bed for a few days.
+
+
