@@ -7,7 +7,7 @@ categories: tiny house
 
 Throughout the ongoing process of planning and building a tiny house, we've received practical inspiration from two primary sources.
 
-First, there's tinyhousebuild.com, where we bought our house's plans from. We were interested in the couple's story of both  embracing a minimalist lifestyle and living in their tiny house with two teenage children. While other tiny homes are only suitable for two people or are intended for short-term stays, we felt like these plans could be adjusted to fit with our overall goals.
+First, there’s tinyhousebuild.com, where we bought our house’s plans from. We were interested in the couple’s story of both embracing a minimalist lifestyle and living in their tiny house with two teenage children. While other tiny homes are only suitable for two people or are intended for short-term stays, we felt like these plans could be adjusted to fit with our overall goals.
 
 ![hOMe]({{ site.url }}/assets/house/hOMe.jpg){:class="img-responsive"}
 

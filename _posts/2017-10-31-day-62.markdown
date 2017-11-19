@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Day 62: Floor"
-date:   2017-10-31 12:00:00 -0000
-categories: tiny house
 ---
 
 Throughout the second half of October our tiny house has shown little outward progress, though not for a lack of effort. During this time we spent a week planning and building window frames, then another week cutting and painting plywood flooring (2 coats of waterproofing underneath, one coat of primer on top and one coat of floor paint, plus two additional coats of white interior paint underneath the loft). 
 
 Additionally, the work has been occasionally slowed by rainy weather. However, now that we've completed all our preparations for the floor and windows, we are fortunate that the weather forecast shows no rain for the entire week ahead as we install the floor and frame the walls.
 
-![windows]({{ site.url }}/assets/house/windows.jpg){:class="img-responsive"}
+![windows]({{ site.baseurl }}/assets/house/windows.jpg){:class="img-responsive"}
+
+
 
 We decided to hang the windows with string to get a feel for how they fit in the structure. It's easy to move the windows around now, but not so much once they're framed in!
 
