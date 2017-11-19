@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Safety"
+published: false
+---
+
+![mag_drill]({{ site.baseurl }}/assets/house/mag_drill.jpg){:class="img-responsive"}
+
+

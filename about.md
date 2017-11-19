@@ -15,8 +15,6 @@ Welcome to my new blog! On most days I'm a mathematician, teacher, and data enth
 
 ![me]({{ site.url }}/assets/me.jpg){: .center-image }
 
-#<img src="{{ site.url }}/assets/me.jpg" width="200" style="text-align: center;">
-
 [tiny-house-wiki]: https://en.wikipedia.org/wiki/Tiny_house_movement
 [jekyll-site]: https://jekyllrb.com/
 
