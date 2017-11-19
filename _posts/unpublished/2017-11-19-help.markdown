@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Help"
+published: false
+---
+
+When my wife and I -- mostly my wife -- started to dream about building a tiny house back in early 2016, the one thing we knew most that hasn't changed at all is the fact that we need a lot of help. Neither of us has taken on a project like this before, and we completely lack tools and an understanding of South African building methods and practices. 
+
+Our plans only became serious when we connected with Steve in early 2017. At that time, Steve was just finishing his first tiny house and had a dream of building all kinds of tiny, modular, and container houses.  
+
+#![steve_house_1]({{ site.baseurl }}/assets/house/steve_house_1.jpg){:class="img-responsive"}
+
+
+
+Write about Steve's tiny houses and how much he's helped us.
+
+Then write about Dad and how much he's helped.
+
+
+![mag_drill]({{ site.baseurl }}/assets/house/mag_drill.jpg){:class="img-responsive"}
+
+
