@@ -4,11 +4,9 @@ title:  "Day 149: Interior Cladding"
 published: true
 ---
 
-With our exterior basically finished, our interior was still bare, as shown in this photo sphere taken by a friend of ours visiting from the US:
-
 ![cladding]({{ site.baseurl }}/assets/house/cladding2.jpg){:class="img-responsive"}
 
-After installing 50mm isotherm insulation, we used 9mm plywood to cover the interior. From start to finish, the interior cladding took about 2 1/2 weeks of slow but steady progress.
+With our exterior basically finished, our interior was still bare, as shown in the photo sphere taken by a friend of ours visiting from the US. After installing 50mm isotherm insulation, we used 9mm plywood to cover the interior. From start to finish, the interior cladding took about 2 1/2 weeks of slow but steady progress.
 
 ![cladding]({{ site.baseurl }}/assets/house/cladding1.jpg){:class="img-responsive"}
 
