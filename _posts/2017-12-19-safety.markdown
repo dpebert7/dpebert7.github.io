@@ -4,7 +4,7 @@ title:  "Safety"
 published: false
 ---
 
-Looking back through some old photos of the build, I've been remined of how much safer it is to work on the interior compared to the exterior. Whether working with a mag drill or standing 2 meters above the ground on makeshift scaffolding, or managing a ladder in windy conditions, my dad and I have remained safe the entire time, suffering nothing worse than an occasional scrape or sunburn.
+Looking back through some old photos of the build, I've been remined of how much safer it is to work on the interior compared to the exterior. Whether working with a mag drill, standing 2 meters above the ground on makeshift scaffolding, or managing a ladder in windy conditions, we've remained safe the entire time aside from a few scrapes and sunburn.
 
 ![mag_drill]({{ site.baseurl }}/assets/house/mag_drill.jpg){:class="img-responsive"}
 

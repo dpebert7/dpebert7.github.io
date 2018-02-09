@@ -4,15 +4,11 @@ title:  "Day 119: Flashing"
 published: true
 ---
 
-Once we had the exterior painted (wood primer, universal undercoat, then two coats of light blue/gray), it was time to add the gutter and some flashing for a finishing touch. There's still a lot of work to do on the inside, but you probably wouldn't know by looking at the outside.
-
 ![flashing]({{ site.baseurl }}/assets/house/flashing0.jpg){:class="img-responsive"}
 
-The front of the house:
+Once we had the exterior painted (wood primer, universal undercoat, then two coats of light blue/gray), it was time to add a gutter and flashing for a finishing touch. There's still a lot of work to do on the inside, but you probably wouldn't know by looking at the outside.
 
 ![flashing]({{ site.baseurl }}/assets/house/flashing1.jpg){:class="img-responsive"}
-
-The back:
 
 ![flashing]({{ site.baseurl }}/assets/house/flashing2.jpg){:class="img-responsive"}
 

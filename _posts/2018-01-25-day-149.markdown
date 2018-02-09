@@ -4,7 +4,7 @@ title:  "Day 149: Interior Cladding"
 published: true
 ---
 
-With our exterior basically finished, our interior was still bare, as shown by this photo sphere:
+With our exterior basically finished, our interior was still bare, as shown in this photo sphere taken by a friend of ours visiting from the US:
 
 ![cladding]({{ site.baseurl }}/assets/house/cladding2.jpg){:class="img-responsive"}
 
@@ -12,6 +12,6 @@ After installing 50mm isotherm insulation, we used 9mm plywood to cover the inte
 
 ![cladding]({{ site.baseurl }}/assets/house/cladding1.jpg){:class="img-responsive"}
 
-Throughout the project I've been reliant on my trusty VW Citi Golf for transport. On multiple occasions I drove up the hill from Pietermaritzburg to the build site with 8 or 9 sheets of plywood strapped to the top. Usually the employees loading the plywood on top of the car were skeptical, but thankfully I never found my car's limit.
+Throughout the project I've been reliant on my trusty VW Citi Golf for transport. On multiple occasions I drove up the long hill from Pietermaritzburg to the build site with 8 or 9 sheets of plywood strapped to the top. Usually the employees loading the plywood on top of the car were skeptical, but thankfully I never found my car's limit.
 
 ![cladding]({{ site.baseurl }}/assets/house/car1.jpg){:class="img-responsive"}

@@ -4,6 +4,6 @@ title:  "Day 105: Goodbye"
 published: true
 ---
 
-After nearly 3 months of working together, I dropped my dad off at the Durban airport and said goodbye as he flew back home to Minnesota. Though this has been the best farther-son project I could have imagined, I'll have a lot to finish off after he leaves. Still, I don't know how I could have gotten this far without his help. We worked hard up to the very end of his time here in South Africa, running out of time to go on a hiking trip we'd hoped to fit in. I guess that means he'll have to come back sometime and build a deck!
+After nearly 3 months of working together, we dropped my dad off at the Durban airport and said goodbye before he flew back home to Minnesota (where temperatures can drop below -10F, as opposed to our area's highs of over 30C). This has been the best farther-son project I could have imagined, and though I'll have a lot to finish off now that he's left, I don't know how I could have gotten this far without his help. We worked hard up to the very end of his time here in South Africa, running out of time to go on a hiking trip we'd hoped to fit in. I guess that means he'll have to come back sometime so we can go hiking and build a deck!
 
 ![goodbye]({{ site.baseurl }}/assets/house/goodbye.jpg){:class="img-responsive"}

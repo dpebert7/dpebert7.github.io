@@ -4,7 +4,7 @@ title:  "Day 104: Electrical"
 published: true
 ---
 
-Since I'm not a professional by any means, I've learned that I'll need expert help in at least three areas for the build: plumbing (the scariest), gas (requires certification), and electrical. Fortunately, since my dad studied electrical engineering back in the day, I've got invaluable help with the elctrical. With time running short before he flies back to the US, my dad made extensive plans for where to run conduit, then with at least half a dozen trips to town visiting at least as many stores, we managed to run nearly all the conduit and pull all the wires with hours to spare. I still need to connect the wires and install the fixtures after the interior walls are in, but hopefully I can figure that out with a lot less help! 
+Since I'm not in any way a professional builder, I've learned that I will need expert help for at least three parts of the build: plumbing (the scariest), gas (requires certification), and electrical. Fortunately, since my dad studied electrical engineering back in the day, I've got invaluable help with the third challenge. With time running short before he flies back to the US, my dad made extensive plans for where to run conduit, then with at least half a dozen trips to town visiting at least as many stores, we managed to run nearly all the conduit and pull all the wires with hours to spare. I still need to connect the wires and install the fixtures after the interior walls are in, but hopefully I can figure that out with a lot less help!
 
 
 ![electrical]({{ site.baseurl }}/assets/house/electrical1.jpg){:class="img-responsive"}
