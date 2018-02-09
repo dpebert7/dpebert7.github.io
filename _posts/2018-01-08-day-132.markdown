@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Day 132: Geyser"
+published: true
+---
+
+While we've had several volunteers and a paid high school student help out, the gas installation was the first part of the project for which I did no work at all. To minimize our reliance upon electricity (which isn't always reliable) and open up the future possibility of using solar power, we've decided to use gas to heat water and cook.

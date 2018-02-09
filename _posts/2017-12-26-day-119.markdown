@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Day 119: Flashing"
+published: true
+---
+
+Once we had the exterior painted (wood primer, universal undercoat, then two coats of light blue/gray), it was time to add the gutter and some flashing for a finishing touch. There's still a lot of work to do on the inside, but you probably wouldn't know by looking at the outside.
+
+![flashing]({{ site.baseurl }}/assets/house/flashing0.jpg){:class="img-responsive"}
+
+The front of the house:
+
+![flashing]({{ site.baseurl }}/assets/house/flashing1.jpg){:class="img-responsive"}
+
+The back:
+
+![flashing]({{ site.baseurl }}/assets/house/flashing2.jpg){:class="img-responsive"}
+
+My son Bram isn't very handy at the worksite yet and he cries whenever I use any power tools (hearing protection doesn't help even when he's 10 meters away...), but he does bring a great deal of joy and cuteness.
+
+![flashing]({{ site.baseurl }}/assets/house/flashing3.jpg){:class="img-responsive"}

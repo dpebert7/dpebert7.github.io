@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Day 154: Stairs"
+published: false
+---
+
+![cladding]({{ site.baseurl }}/assets/house/cladding2.jpg){:class="img-responsive"}
