@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 191: Kitchen"
+published: false
+---
+
+
+![pantry]({{ site.baseurl }}/assets/house/pantry.jpg){:class="img-responsive"}

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 190: Landscaping"
+published: false
+---
+
+![landscape]({{ site.baseurl }}/assets/house/landscape1.jpg){:class="img-responsive"}
+
+![landscape]({{ site.baseurl }}/assets/house/landscape2.jpg){:class="img-responsive"}
+
+![landscape]({{ site.baseurl }}/assets/house/landscape3.jpg){:class="img-responsive"}
+
+![landscape]({{ site.baseurl }}/assets/house/landscape4.jpg){:class="img-responsive"}
