@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 154: Stairs"
-published: false
+published: true
 ---
 
 ![stairs]({{ site.baseurl }}/assets/house/stairs1.jpg){:class="img-responsive"}

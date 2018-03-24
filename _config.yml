@@ -40,12 +40,12 @@ theme_settings:
   stack_exchange: "https://stackexchange.com/users/4317998/david-ebert" # Full URL
   steam:
   tumblr:
-  twitter: "dpebert"
+  twitter: #"dpebert"
   wordpress: "ebertdavid"
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-116311585-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
@@ -68,7 +68,7 @@ theme_settings:
   post_navigation: true
 
 # PAGINATION
-paginate: 5
+paginate: 25
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS

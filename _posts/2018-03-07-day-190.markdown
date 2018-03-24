@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 190: Landscaping"
-published: false
+published: true
 ---
 
 ![landscape]({{ site.baseurl }}/assets/house/landscape1.jpg){:class="img-responsive"}

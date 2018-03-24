@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 191: Kitchen"
-published: false
+published: true
 ---
 
 

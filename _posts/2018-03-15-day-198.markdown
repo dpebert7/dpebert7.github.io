@@ -1,5 +1,7 @@
 ---
 layout: post
 title:  "Day 191: Moving"
-published: false
+published: true
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A8c5PTEIHKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
