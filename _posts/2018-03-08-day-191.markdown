@@ -3,6 +3,7 @@ layout: post
 title:  "Day 191: Kitchen"
 published: true
 ---
+![kitchen1]({{ site.baseurl }}/assets/house/kitchen1.png){:class="img-responsive"}
 
 
 ![pantry]({{ site.baseurl }}/assets/house/pantry.jpg){:class="img-responsive"}

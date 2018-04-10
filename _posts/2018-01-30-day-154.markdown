@@ -3,6 +3,9 @@ layout: post
 title:  "Day 154: Stairs"
 published: true
 ---
+![stairs]({{ site.baseurl }}/assets/house/stairs5.jpg){:class="img-responsive"}
+
+Nearly every part of the tiny house neds to be efficient and multipurpose, and to that end I built the stairs to include a lot of storage space. After carefully working out the rise and tread (with a big last step transitioning to the loft), I started building the stairs out of plywood. The stairs turned out to be quite fun to make, and I even managed to make a detachable bottom step to prevent our son from climbing. Now we just need to figure out doors to keep him from the storage.
 
 ![stairs]({{ site.baseurl }}/assets/house/stairs1.jpg){:class="img-responsive"}
 

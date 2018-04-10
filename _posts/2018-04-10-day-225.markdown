@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Day 225: Welcome Home"
+published: true
+---
+
+![welcome_home1]({{ site.baseurl }}/assets/house/welcome_home1.jpg){:class="img-responsive"}
+
+During the past few weeks of digging trenches to run water and electricity and hiring out the plumbing and septic system, we've slowly been moving our belongings into the tiny house. Today, at last, the tiny house is ready for us to move in. Though the project has grown tedious in the past few months when we've been *so* close to completion, Steph and I are so pleased with the results, and we're so excited to call our tiny house home.
+
+![welcome_home2]({{ site.baseurl }}/assets/house/welcome_home2.jpg){:class="img-responsive"}
+
+![welcome_home3]({{ site.baseurl }}/assets/house/welcome_home3.jpg){:class="img-responsive"}
+
+![welcome_home4]({{ site.baseurl }}/assets/house/welcome_home4.jpg){:class="img-responsive"}
+
+![welcome_home5]({{ site.baseurl }}/assets/house/welcome_home5.jpg){:class="img-responsive"}
+
+![welcome_home6]({{ site.baseurl }}/assets/house/welcome_home6.jpg){:class="img-responsive"}
+
+![welcome_home7]({{ site.baseurl }}/assets/house/welcome_home7.jpg){:class="img-responsive"}

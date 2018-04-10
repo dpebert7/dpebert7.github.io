@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 213: Loft"
+published: false
+---
+
+
+![welcome_home1]({{ site.baseurl }}/assets/house/welcome_home1.jpg){:class="img-responsive"}

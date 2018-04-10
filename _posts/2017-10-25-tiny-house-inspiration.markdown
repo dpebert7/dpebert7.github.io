@@ -16,4 +16,4 @@ As our project has gone from planning into practice, we've received more help fr
 
 ![steve]({{ site.url }}/assets/house/steve.jpg){:class="img-responsive"}
 
-![plans]({{ site.url }}/assets/house/plan.JPG){:class="img-responsive"}
+![plans]({{ site.url }}/assets/house/plan_vert.png){:class="img-responsive"}

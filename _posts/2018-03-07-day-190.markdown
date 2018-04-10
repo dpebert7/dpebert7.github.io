@@ -4,10 +4,12 @@ title:  "Day 190: Landscaping"
 published: true
 ---
 
-![landscape]({{ site.baseurl }}/assets/house/landscape1.jpg){:class="img-responsive"}
+![landscape]({{ site.baseurl }}/assets/house/landscape1.jpeg){:class="img-responsive"}
 
-![landscape]({{ site.baseurl }}/assets/house/landscape2.jpg){:class="img-responsive"}
+We started building our tiny house without a clear idea of where to park it, and thankfully we've been encouraged by a number of friends and acquaintances interested in hosting us. We've ultimately decided to become squatters on the property of our friends Brendan and Kate. The main challenge of moving the house there will be getting the tiny house down their paved driveway and then down again to their backyard terrace. To that end we hired a TLB to help clear a runway and build enough of a platform to fit the trailer and a car. I'm a little nervous about what we're doing to our friends' backyard, and hopefully we'll remain friends after this.
 
-![landscape]({{ site.baseurl }}/assets/house/landscape3.jpg){:class="img-responsive"}
+![landscape]({{ site.baseurl }}/assets/house/landscape2.jpeg){:class="img-responsive"}
 
-![landscape]({{ site.baseurl }}/assets/house/landscape4.jpg){:class="img-responsive"}
+![landscape]({{ site.baseurl }}/assets/house/landscape3.jpeg){:class="img-responsive"}
+
+![landscape]({{ site.baseurl }}/assets/house/landscape4.jpeg){:class="img-responsive"}
