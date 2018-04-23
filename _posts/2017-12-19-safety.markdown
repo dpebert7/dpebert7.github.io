@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Safety"
-published: false
+published: true
 ---
 
 ![scaffolding]({{ site.baseurl }}/assets/house/scaffolding.jpg){:class="img-responsive"}
