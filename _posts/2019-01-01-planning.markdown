@@ -13,4 +13,10 @@ Advice for building a tiny house:
 
 
 Budget:
- - Include visualization with interactive timeline, pie chart.
+ - Include visualization with interactive timeline, pie chart
+
+
+Test Shiny below:
+<iframe src="https://derek-corcoran.shinyapps.io/WhereShouldYouLive/" style="border:none;width:1000px;height:500px;"></iframe>
+Test Shiny above
+
