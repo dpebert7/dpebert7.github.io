@@ -5,4 +5,12 @@ published: true
 ---
 ![kitchen1]({{ site.baseurl }}/assets/house/kitchen1.png){:class="img-responsive"}
 
-![pantry]({{ site.baseurl }}/assets/house/pantry.jpg){:class="img-responsive"}
+It took some unusual planning to squeeze as much kitchen as possible in the 2 metre space between our bathroom and stairs. In the end we just managed to fit the waxhing machine, sink, and fridge. It also helped that we allowed the countertop to extend beyond the loft ovehang into the desk area. 
+
+![pantry]({{ site.baseurl }}/assets/house/kitchen2.jpg){:class="img-responsive"}
+
+![pantry]({{ site.baseurl }}/assets/house/kitchen3.jpg){:class="img-responsive"}
+
+![pantry]({{ site.baseurl }}/assets/house/kitchen4.jpg){:class="img-responsive"}
+
+![pantry]({{ site.baseurl }}/assets/house/kitchen5.jpg){:class="img-responsive"}

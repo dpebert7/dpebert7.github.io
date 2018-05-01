@@ -1,8 +1,21 @@
 ---
 layout: post
-title:  "Day 213: Loft"
-published: false
+title:  "Day 213: Moveable Loft"
+published: true
 ---
 
+![kitchen1]({{ site.baseurl }}/assets/house/moveable_loft.jpg){:class="img-responsive"}
 
-![welcome_home1]({{ site.baseurl }}/assets/house/welcome_home1.jpg){:class="img-responsive"}
+More than any other part of the house, our moveable loft involved repeated rounds of invention and experimentation, and a **lot** of pulleys and counterweights. After several months of various configurations, I'm satisfied with the following setup:
+
+ - Four sliding door Hillaldam rails and wheels, repurposed for each corner of the loft
+ - Pegs in holes hold the platform wheels in place when the pulley isn't engaged
+ - Platform built from pine timber with plywood floor
+ - Five security gate wheels repurposed as single pulleys
+ - Two double pulleys and two more standard pulleys, these allow the ropes connected to each corner to join into one rope
+ - One quadruple pulley with one end attached to the floor and the other to the single rope provides substantial mechanical advantage to easily raise the
+ - Wall hook to secure dangling rope to the wall
+
+Here's a video demonstration, originally made for my curious dad who was essential in starting the loft but who didn't get to see it to completion:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3DZctr_9RVE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
