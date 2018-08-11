@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Expenses"
+published: true
+---
+
+Throughout the build I kept careful records of all the money I spent. From quite early on I realized that we were going to surpass our goal of building the tiny house for under R200 000 (about $14,000). But I also realized that what started out as a "budget" was really a *guess*, and in the end we spent R264 000 (about $18,800), which includes most appliances, move costs, electric hookup, rainwater tank and septic system. In hindsight I would have spent a little more money in a few areas (especially flooring and plumbing fixtures), but the following is an accurate representation of what it costs to self-build a tiny house in South Africa on a budget.
+
+![categories]({{ site.baseurl }}/assets/viz/categories_list.png){:class="img-responsive"}
+
+By far the greatest expense of the tiny house was the trailer, which we purchased new. Of course we saved money by not building a foundation or purchasing land, but I suspect that for many people building a small and immovable house would be a good choice. Nevertheless, we made the decision up front to purchase a trailer and haven't looked back! At the other end of the table, I spent R1 200 on direct labor costs, hiring a high schooler to help with painting and a Bible school student to dig trenches for electrical and water. More labor costs are hidden in the septic, plumbing and gas geyser costs, but all other work was done by myself, my dad or volunteers. I haven't made any attempt to quantify this free labor, but it was substantial. Thanks, dad! Thanks, volunteers!
+
+![categories_viz]({{ site.baseurl }}/assets/viz/categories_viz.png){:class="img-responsive"}
+
+The above visualization shows the same categories as above, but broken down further by supplier.
+
+![stores]({{ site.baseurl }}/assets/viz/stores.png){:class="img-responsive"}
+
+In the US almost any tool, building supply, and appliance is available at any of 3 competitors nationwide: Lowe's, Home Depot, and Menards. South Africa has several big box stores (Buildit, Builders, Cashbuild, and Game), but none of them approach the scale of the "Big 3" in the US, and small businesses and suppiers remain essential in building. The result was that my dad and I spent hours each week travelling between stores in Pietermaritzburg. We searched for rare items (e.g. pulleys), visited specialist stores for insulation, lighting, electrical, steel, plumbing, etc., and compared prices on some common materials, especially timber. At the start of the build I thought I would develop a fondness for the smaller family-owned businesses, but the opposite was true. Among the 58 suppliers/stores I used, I preferred the bigger stores, not only because they had somewhat lower prices and better selection, but they also had longer hours (though rarely past 5 PM), clearer pricing, more parking, and better customer service (though still nowhere near as good as the US). The bar graph above indicates I spent nearly R40 000 ($2,800) at Hilton Buildit on a wide variety of categories. It's by far the nearest store to where I stay, and though the prices are a little higher than most stores in town, the staff are friendlier and more helpful than at any other store I've visited.
+
+![stores_viz]({{ site.baseurl }}/assets/viz/stores_viz.png){:class="img-responsive"}
+
+Finally, the above chart shows each store's size by number of visits and color by amount spent. Unfortunately, the names of some of the small stores I only visited once or twice didn't fit into the chart. These include:
+  - *SV Distributors* -- This is the only place in Pietermartizburg that sells decent pulleys, and with each purchase they give out hideous keychains and desk calendars. Bonus!  
+  - *Foam & Bedding + Masks & Things* -- Their cheap foam mattress is suprisingly comfy!
+  - *All About Bolts*, *Wholesale Bolt* -- These stores (among others I didn't patronize, including *Liberty Bolt & Nut*, *Wholesale Bolt & Hardware CC*, *Bolt and Nut Centre*, etc) sell the same bolts as the box stores at marginally lower prices. However, for all the places I've visited, I have yet to find a place that has a [gate hook and eye](https://www.homedepot.com/p/Everbilt-2-in-Zinc-Plated-Gate-Hook-and-Eye-817001/204273895), which is not only available at Home Depot for $1.38, but also visible online.
+
+Shout out to [Peter Binion](https://www.linkedin.com/in/peter-binion-5ab79aa1) for the [Tableau](https://www.tableau.com/) visualizations. You can access the raw data [here](https://docs.google.com/spreadsheets/d/16iFjKLelfR7sFVHi2R1UZj07vyjK-uBXtQ5MyGFkd90/edit?usp=sharing).
